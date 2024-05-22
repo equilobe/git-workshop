@@ -1,2 +1,3 @@
 text din fisier nou pe master
-fisier mai smecher decat al Alexandreit
+fisier mai smecher decat al Alexandrei
+schimbare in al doilea branch
